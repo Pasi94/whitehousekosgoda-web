@@ -1,0 +1,39 @@
+﻿<premiumInfo ver="1.0">
+    <PremiumConfig>
+        <swf movieWidth="900" movieHeight="675" templateWidth="720" templateHeight="540" scaleMode="exactFit" alignMode="top" frameRate="30" hideAdobeMenu="true" anvsoftMenu="true" />
+        <mode startAutoPlay="true" continuum="true" clickToAutoPlay="true" enableURL="true" randomPlayingPhotos="false" enableKeyboardShortcuts="true" transitionArray="" />
+        <img photoBgColor="0x000000" photoBgAlpha="100" photoScaleStyle="fit" />
+        <preloader textColor="0x000000" bgColor="0xFFFBF0" bgAlpha="100" url="" />
+        <music>
+            <property bufferTime="5" defaultVolume="80" loop="true" stream="true" />
+            <info startTime="0" duration="-1" url="" />
+        </music>
+        <misc preloaderPath="C:\Program Files (x86)\AnvSoft\Photo Slideshow Maker Platinum\template\premium\preloader\default.swf" />
+    </PremiumConfig>
+    <PhotoTextEffect>
+        <photoTextElem id="0">
+            <template type="customTemplate" templateWidth="362" templateHeight="272" />
+        </photoTextElem>
+        <photoTextElem id="1">
+            <template type="customTemplate" templateWidth="362" templateHeight="272" />
+        </photoTextElem>
+        <photoTextElem id="2">
+            <template type="customTemplate" templateWidth="362" templateHeight="272" />
+        </photoTextElem>
+        <photoTextElem id="3">
+            <template type="customTemplate" templateWidth="362" templateHeight="272" />
+        </photoTextElem>
+        <photoTextElem id="4">
+            <template type="customTemplate" templateWidth="362" templateHeight="272" />
+        </photoTextElem>
+        <photoTextElem id="5">
+            <template type="customTemplate" templateWidth="362" templateHeight="272" />
+        </photoTextElem>
+        <photoTextElem id="6">
+            <template type="customTemplate" templateWidth="362" templateHeight="272" />
+        </photoTextElem>
+        <photoTextElem id="7">
+            <template type="customTemplate" templateWidth="362" templateHeight="272" />
+        </photoTextElem>
+    </PhotoTextEffect>
+</premiumInfo>
